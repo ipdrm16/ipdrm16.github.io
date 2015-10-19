@@ -1,7 +1,9 @@
-HUST15 Web Site Source
+IPDRM16 Web Site Source
 ============================================
 
-This is the source code for the HUST15 web site, which uses
+Based on the HURST15 SC workshop template.
+
+This is the source code for the IPDRM16 web site, which uses
 [Jekyll](http://jekyllrb.com) and
 [GitHub pages](https://pages.github.com).
 
