@@ -15,13 +15,13 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "HUST15: Second Workshop on HPC User Support Tools"
-keywords:    "hpc, user, support, tools, build, sc15, hust15, hust, supercomputing"
-description: "Second Workshop on HPC User Support Tools"
-source_link: "https://github.com/hust15/hust15.github.io"
+title:       "IPDRM16: First International Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware"
+keywords:    "hpc, user, Runtimes, Middleware, ipdps16, ipdrm16, ipdrm, supercomputing"
+description: "First workshop on Parallel and distributed runtiems and middleware"
+source_link: "https://github.com/ipdrm16/ipdrm16.github.io"
 #favicon:     "img/favicon.ico"
 #touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-55665759-3
+#google_analytics_key: UA-55665759-3
 
 
 ### template colors, used site-wide via css ###
