@@ -6,9 +6,6 @@ style: left
 fa-icon: users
 icon-title: true
 ---
-
-# Organizing Committee
-
 ## General Chairs
 
 * Shuaiwen Leon Song, Pacific Northwest National Laboratory
