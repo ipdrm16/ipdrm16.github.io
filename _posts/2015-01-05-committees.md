@@ -7,13 +7,24 @@ fa-icon: users
 icon-title: true
 ---
 
-## Organizing Committee
+# Organizing Committee
 
-TBA
+## General Chairs
 
-## General Chair
+* Shuaiwen Leon Song, Pacific Northwest National Laboratory
+* Todd Gamblin, Lawrence Livermore National Laboratory
 
-TBA
+## Publicity Chair
+
+* Jingweijia Tan, University of Houston
+
+## Proceeding Chair
+
+* Albert Sidelnik, NVIDIA Research
+
+## Web Chair
+
+* Joseph Manzano, Pacific Northwest National Laboratory
 
 ## Program Committee
 
