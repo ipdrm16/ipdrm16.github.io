@@ -25,4 +25,22 @@ icon-title: true
 
 ## Program Committee
 
-TBA
+* Ananta Tiwari, San Diego Supercomputing Center, USA
+* Huiyang Zhou, North Carolina State University, USA
+* Felix Wolf, German Research School For Simulation Sciences, Germany
+* Lizy Kurian John, University of Texas, Austin, USA
+* Jeff Young, Georgia Tech, USA
+* Benoit Meister, Reservoir Labs, USA
+* Suren Byna, Lawrence Berkley National Lab, USA
+* Siva Hari, NVIDIA Research, USA
+* Zhijia Zhao, University of California, Riverside, USA
+* Holger Fröning, Ruprecht-Karls University of Heidelberg, Germany
+* Ioan Raicu, Illinois Institute of Technology, Argonne National Laboratory, USA
+* Boyana Norris, University of Oregon, USA
+* Prasanna Balaprakash, Argonne National Laboratory, USA
+* Xu Liu, College of William and Mary, USA
+* Bo Wu, Colorado School of Mines, USA
+* Depanjon Sunguputa, Georgia Tech, USA
+* Ang Li,  Eindhoven University of Technology, Netherlands
+* Marc Cass, Barcelona Supercomputing Center, Spain
+
