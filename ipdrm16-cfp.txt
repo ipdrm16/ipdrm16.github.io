@@ -67,7 +67,7 @@ reviewed by at least 3 members of the program committee.
 
 Important Dates:
 
-* Full papers (10 pages max):  
+* Full papers (8 pages max):  
 * Deadline: Jan. 22nd
 * Automatic Extension: Jan. 29th
 * Author notification: Feb. 12th
