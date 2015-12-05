@@ -40,7 +40,7 @@ icon-title: true
 * Prasanna Balaprakash, Argonne National Laboratory, USA
 * Xu Liu, College of William and Mary, USA
 * Bo Wu, Colorado School of Mines, USA
-* Depanjon Sunguputa, Georgia Tech, USA
+* Dipanjan Sengupta, Georgia Tech, USA
 * Ang Li,  Eindhoven University of Technology, Netherlands
 * Marc Cass, Barcelona Supercomputing Center, Spain
-
+* Devesh Tiwari, Oak Ridge National Laboratory, USA

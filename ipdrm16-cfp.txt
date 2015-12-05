@@ -65,6 +65,8 @@ Submitted papers should not have appeared in or under consideration for another
 venue. A full peer-review process will be followed with each paper being 
 reviewed by at least 3 members of the program committee. 
 
+Submissions will be accepted through the Easychair system at https://easychair.org/conferences/?conf=ipdrm16
+
 Important Dates:
 
 * Full papers (8 pages max):  
