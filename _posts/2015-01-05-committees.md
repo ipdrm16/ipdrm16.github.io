@@ -43,5 +43,3 @@ icon-title: true
 * Ang Li,  Eindhoven University of Technology, Netherlands
 * Marc Cass, Barcelona Supercomputing Center, Spain
 * Devesh Tiwari, Oak Ridge National Laboratory, USA
-
-Test 1
