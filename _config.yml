@@ -22,7 +22,7 @@ description: "First workshop on Parallel and distributed runtiems and middleware
 source_link: "https://github.com/ipdrm16/ipdrm16.github.io"
 #favicon:     "img/favicon.ico"
 #touch_icon:  "img/apple-touch-icon.png"
-#google_analytics_key: UA-55665759-3
+google_analytics_key: UA-55665759-3
 
 
 ### template colors, used site-wide via css ###
