@@ -54,6 +54,3 @@ colors:
   # purple:    '#c869bf'
   # orange:    '#fab125'
   # turquoise: '#0fbfcf'
-
-gems:
-  - jemoji
