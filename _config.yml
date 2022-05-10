@@ -7,43 +7,34 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore, bck]
-permalink: / ## disables post output
+permalink: /:title ## disables post output
 timezone: null
 lsi: false
+favicon: "img/favico.ico"
+touch_icon: "img/apple-touch-icon.png"
 markdown: kramdown 
-highlighter: rogue 
+#highlighter: rouge 
+
 
 
 ### content configuration ###
-title:       "IPDRM16: First International Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware"
-keywords:    "hpc, user, Runtimes, Middleware, ipdps16, ipdrm16, ipdrm, supercomputing"
+title:       "IPDRM20: Third International Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware"
+keywords:    "hpc, user, Runtimes, Middleware, ipdrm20, ipdrm, supercomputing"
 description: "First workshop on Parallel and distributed runtiems and middleware"
-source_link: "https://github.com/ipdrm16/ipdrm16.github.io"
-#favicon:     "img/favicon.ico"
-#touch_icon:  "img/apple-touch-icon.png"
+source_link: "https://github.com/ipdrm/ipdrm.github.io"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-55665759-3
 
 
 ### template colors, used site-wide via css ###
 colors:
+  green:     '#377f1c'
   black:     '#111111'
   white:     '#ffffff'
-  blue:      '#2a52be'
-  orange:    '#a98625'
-  red:       '#be4c2a'
-  green:     '#377f1c'
-  purple:    '#be2a52'
-  turquoise: '#2a9cbe
-
-# Dull pastels
-  # black:     '#111111'
-  # white:     '#ffffff'
-  # blue:      '#779ecb'
-  # orange:    '#cba477'
-  # red:       '#cb7a77'
-  # green:     '#9ecb77'
-  # purple:    '#cb779e'
-  # turquoise: '#77c8cb'
+  blue:      '#779ecb'
+  orange:    '#cba477'
+  turquoise: '#77c8cb'
 
 # Original Bright colors
   # black:     '#111111'
@@ -53,3 +44,6 @@ colors:
   # purple:    '#c869bf'
   # orange:    '#fab125'
   # turquoise: '#0fbfcf'
+
+kramdown:
+   auto_ids: false
