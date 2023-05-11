@@ -1,0 +1,89 @@
+                              CALL FOR PAPERS:
+                          The First IEEE Workshop on
+ Emerging Parallel and Distributed Runtime Systems and Middleware (IPDRM’2016)
+                           May 27th, 2016, Chicago
+
+                             Held in conjunction with
+ The 30th IEEE International Parallel & Distributed Processing Symposium 
+                                 (IPDPS’16)
+
+Node architectures of extreme-scale systems are rapidly increasing in 
+complexity. Emerging homogeneous and heterogeneous designs provide massive 
+multi-level parallelism, but developing efficient runtime systems and 
+middleware that allow applications to efficiently and productively exploit 
+these architectures is extremely challenging.  Moreover, current 
+state-of-the-art approaches may become unworkable once energy consumption, 
+resilience, and data movement constraints are added. The goal of this workshop 
+is to attract the international research community to share new and bold ideas 
+that will address the challenges of design, implementation, deployment, and 
+evaluation of future runtime systems and middleware.   
+
+Scope:
+
+This workshop will emphasize novel, disruptive research ideas over incremental 
+advances. We will solicit papers on topics including, but not limited to, the 
+following areas:
+
+Runtime System/Middleware Design, Evaluation and Usage 
+* Runtime/Middleware for emerging HPC and cloud computing platforms
+* Runtime/Middleware for Big Data Computing 
+* Modeling and Performance Analysis of Runtime Systems
+* Comparison studies of different runtime systems and middleware	
+* Tuning and Optimization studies   
+* Interactions between Runtime Systems and Middleware  
+* Runtime-architecture co-design 
+
+Constraints and Issues for Runtime Systems and Middleware
+* Energy- and Power-aware schemes
+* Fault Tolerance and Reliability 
+* Scalable high-performance I/O and access to Big Data
+* Memory management
+* Runtime data analysis (e.g., in-situ analysis)
+* Real-time solutions and QOS
+* Virtualization, provisioning, and scheduling
+* Scalability of novel runtime systems and applications using them
+
+Design Principles and Programming Support    
+* High-level programming models (e.g., thread and task based models, data 
+  parallel models, and stream programming) and domain-specific languages
+* Programming frameworks, parallel programming, and design methodologies 
+* Methodologies and tools for runtime and middleware design, implementation, 
+  verification, and evaluation   
+* Wild and crazy ideas on future Runtime System and Middleware 
+
+
+Paper Submissions:
+
+We invite two kinds of submissions to this workshop: (1) Full-length research 
+papers (8-page limit); (2) Short papers (4-page limit), which can take the 
+form of position papers, experience reports, or surveys/comparisons of runtime 
+systems and middleware. Papers should not exceed eight (or four) single-spaced 
+pages (including figures, tables and references) using 10-point font on 
+8.5x11-inch pages. Submissions will be judged on correctness, originality, 
+technical strength, significance, presentation quality, and appropriateness. 
+Submitted papers should not have appeared in or under consideration for another 
+venue. A full peer-review process will be followed with each paper being 
+reviewed by at least 3 members of the program committee. 
+
+Submissions will be accepted through the Easychair system at https://easychair.org/conferences/?conf=ipdrm16
+
+Important Dates:
+
+* Full papers (8 pages max):  
+* Deadline: Jan. 22nd
+* Automatic Extension: Jan. 29th
+* Author notification: Feb. 22nd
+* Camera-ready copy: Mar. 7th 
+
+* Short papers (4 pages max):
+* Deadline: Jan. 29th
+* Automatic Extension: Feb.  5th
+* Author notification: Feb. 22nd
+* Camera-ready copy: Mar. 7th
+
+All dates are AOE ("Anywhere on earth").
+
+Workshop Co-Chairs:
+
+Shuaiwen Leon Song, PNNL       Shuaiwen.Song@pnnl.gov
+Todd Gamblin, LLNL             tgamblin@llnl.gov
