@@ -18,9 +18,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "IPDRM22: Fifth International Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware"
+title:       "IPDRM23: Sixth International Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware"
 keywords:    "hpc, user, Runtimes, Middleware, ipdrm20, ipdrm, supercomputing"
-description: "First workshop on Parallel and distributed runtiems and middleware"
+description: "Sixth workshop on Parallel and distributed runtiems and middleware"
 source_link: "https://github.com/ipdrm/ipdrm.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
